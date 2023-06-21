@@ -1,6 +1,6 @@
 import goslate
 
 
-inserted_text = "What can i do today?"
+inserted_text = "Python progamming language is very good"
 new_gs = goslate.Goslate()
-print(new_gs.translate(inserted_text, 'pt'))
+print(new_gs.translate(inserted_text, 'de'))
